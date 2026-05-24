@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+botedit_*
+botedit_frames_*

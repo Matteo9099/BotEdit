@@ -1,0 +1,9 @@
+aiogram==3.4.1
+opencv-python-headless
+numpy
+python-dotenv
+Pillow
+nudenet
+tensorflow-cpu
+opencv-python-headless
+uvloop
